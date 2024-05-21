@@ -28,7 +28,7 @@ To install and run the CANSLIM Tight Week Scanner, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/canslim_tightweek_scanner.git
+    git clone https://github.com/rmtech1/canslim_tightweek_scanner.git
     cd canslim_tightweek_scanner
     ```
 
