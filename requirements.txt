@@ -1,0 +1,5 @@
+yfinance
+pandas
+requests
+tqdm
+beautifulsoup4
